@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gitrepotest:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-05T15:53:13.035969169+02:00"
+    description: git repo test
+    digest: 6c98f5a3f29ba4a17240db50bb74d090a3b503eb605d3c2c351e0fa5cbf0c15f
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-05T15:53:13.035624898+02:00"
